@@ -14,7 +14,8 @@ class Solution {
         int previous = con(s.charAt(0));
         int ans = 0;
         int x =0;
-        for(char a:s.toCharArray()){
+        for(int i =0;i<s.length();i++){
+            char a = s.charAt(i);
             x = con(a);
             if(previous<x){
                 ans -= previous;
