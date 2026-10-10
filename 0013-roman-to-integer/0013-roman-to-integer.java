@@ -23,7 +23,7 @@ class Solution {
             }else{
                 ans += x;
             }
-            previous = con(a);
+            previous = x;
         }
         return ans;
     }
