@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Priyanshu080624/DSA/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyanshu080624/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Priyanshu080624/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshu080624/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -55,9 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Priyanshu080624/DSA/tree/master/0013-roman-to-integer) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu080624/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu080624/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Priyanshu080624/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
