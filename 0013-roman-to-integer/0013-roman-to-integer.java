@@ -13,13 +13,15 @@ class Solution {
     public int romanToInt(String s) {
         int previous = con(s.charAt(0));
         int ans = 0;
+        int x =0;
         for(char a:s.toCharArray()){
-            if(previous<con(a)){
+            x = con(a);
+            if(previous<x){
                 ans -= previous;
-                ans += (con(a)-previous);
+                ans += (x-previous);
                 
             }else{
-                ans += con(a);
+                ans += x;
             }
             previous = con(a);
         }
